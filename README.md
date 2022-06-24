@@ -11,7 +11,8 @@ There are multiple benefits to this type of site. The first being security. Ther
 
 ### Screenshots
 
-[Screenshot](screenshot.png "Screenshot")
+![Screenshot](screenshot.png "Screenshot")
+> meme credit: [here](https://www.reddit.com/r/ProgrammerHumor/comments/pcgrcx/eaas_aka_employee_as_a_service_choose_your_package/)
 
 ### Getting Started
 
